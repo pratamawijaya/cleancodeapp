@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanCodeApp.iml" filepath="$PROJECT_DIR$/CleanCodeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_layer/data_layer.iml" filepath="$PROJECT_DIR$/data_layer/data_layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fluxify/fluxify.iml" filepath="$PROJECT_DIR$/fluxify/fluxify.iml" />
+    </modules>
+  </component>
+</project>

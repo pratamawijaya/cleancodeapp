@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="data_layer.data_layer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data_layer/build/libs/data_layer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
